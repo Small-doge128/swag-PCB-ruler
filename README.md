@@ -1,5 +1,5 @@
 # about
-A awesome and swag PCB ruler with common measurements in electronics holes and much more.
+My own PCB ruler for school, with really swag features like common diodes and transistors, imperial and metric on both sides, USB-C 3.0 and 2.0 and much more it's a really versatile ruler.
 
 # features
 Ruler has common diode and transistor sizes, holes sizes, trace sizes, font sizes, imperial and metric on sides like a normal ruler, a lot of footprints, exposed fiberglass layer for writing your name, USB-C 3.0 vs 2.0, different BGA sizes like ddr3 and more, some logos, schematics of different switch types and random copper lines to look at.
