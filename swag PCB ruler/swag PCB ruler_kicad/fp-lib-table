@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "logos") (type "KiCad") (uri "C:/Users/Small_doge PC/Downloads/swag PCB ruler/logos.pretty") (options "") (descr ""))
+	(lib (name "Hole _sizes") (type "KiCad") (uri "C:/Users/Small_doge PC/Downloads/swag PCB ruler/Hole _sizes.pretty") (options "") (descr ""))
+	(lib (name "Holes") (type "KiCad") (uri "C:/Users/Small_doge PC/Downloads/swag PCB ruler/Holes.pretty") (options "") (descr ""))
+	(lib (name "New holes") (type "KiCad") (uri "C:/Users/Small_doge PC/Downloads/swag PCB ruler/New holes.pretty") (options "") (descr ""))
+)
