@@ -20,6 +20,8 @@ I do have a pcbway ruler, but I felt like why not make my own with different fea
 
 # BOM
 
-|  Name  |    purpose     |price(USD)|  link  |
-|  pcb   |the actual ruler| $ 2.61   |
-|
+|  Name  |    purpose     |price(USD)|        link      |
+|--------|----------------|----------|------------------|
+|  pcb   |the actual ruler| $ 2.61   |https://jlcpcb.com|
+| total withou shipping| | $ 2.61 | |
+|total with shipping| | $ 13 | |
