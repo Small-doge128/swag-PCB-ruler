@@ -19,6 +19,7 @@ I do have a pcbway ruler, but I felt like why not make my own with different fea
 <img width="916" height="173" alt="Screenshot 2026-08-02 114219" src="https://github.com/user-attachments/assets/5eae9bd7-9b70-4965-8a6c-f2ed51177821" />
 
 # BOM
----------------------------------
-|Name|purpose|price(USD)|link
----------------------------------
+
+|  Name  |    purpose     |price(USD)|  link  |
+|  pcb   |the actual ruler| $ 2.61   |
+|
