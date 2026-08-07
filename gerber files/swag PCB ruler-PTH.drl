@@ -1,0 +1,96 @@
+M48
+; DRILL file KiCad 10.0.5 date 2026-08-07T18:26:10
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2026-08-07T18:26:10+02:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,10.0.5
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+METRIC
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T1C0.300
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T2C0.350
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T3C0.400
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T4C0.450
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T5C0.500
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T6C0.550
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T7C0.650
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T8C0.700
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T9C0.800
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T10C0.900
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T11C1.000
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T12C1.150
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T13C1.300
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T14C1.450
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T15C1.650
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T16C1.800
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T17C2.000
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T18C2.300
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T19C2.600
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T20C2.900
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T21C3.250
+%
+G90
+G05
+T1
+X117.16Y-105.84
+T2
+X116.51Y-105.86
+T3
+X115.79Y-105.87
+T4
+X115.0Y-105.91
+T5
+X114.14Y-105.93
+T6
+X113.22Y-105.96
+T7
+X112.24Y-105.99
+T8
+X111.12Y-106.04
+T9
+X109.81Y-106.08
+T10
+X108.4Y-106.13
+T11
+X106.93Y-106.18
+T12
+X105.34Y-106.23
+T13
+X103.62Y-106.34
+T14
+X101.41Y-106.39
+T15
+X99.26Y-106.48
+T16
+X96.76Y-106.58
+T17
+X94.21Y-106.66
+T18
+X91.3Y-106.8
+T19
+X88.15Y-107.01
+T20
+X84.82Y-107.12
+T21
+X81.0Y-107.28
+M30
